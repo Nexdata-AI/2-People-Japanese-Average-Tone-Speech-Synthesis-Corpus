@@ -1,0 +1,1 @@
+# 2-People-Japanese-Average-Tone-Speech-Synthesis-Corpus
