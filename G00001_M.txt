@@ -1,0 +1,20 @@
+100001	비록 이변을 일으키진 못했지만 멋진 한판승부였습니다%.
+	b i . l o K / i . b yeo . n eu R / i . r eu . k i . j i N / m o . t ae T . jj i . m a N / m eo T . jj i N / h a N . p a N . s eu NG . b u . yeo T . ss eu M . n i . d a
+100002	아들과 단둘이 살만한 집을 마련하는것이 유일한 꿈이다%.
+	a . d eu R . kk wa / d a N . tt u . r i / s a R . m a . n a N / j i . b eu R / m a . l yeo . n a . n eu N . kk eo . s i / yu . i . r a N / kk u . m i . d a
+100003	지금은 당신이 일어나 일에 착수해야할 때입니다%.
+	j i . g eu . m eu N / d a NG . s i . n i / i . r eo . n a / i . r e / ch a K . ss u . h ae . ya . h a R / tt ae . i M . n i . d a
+100004	스나이더/: 큰 무대를 즐기는 체질입니다%.
+	s eu . n a . i . d eo / k eu N / m u . d ae . l eu R / j eu R . kk i . n eu N / ch e . j i . r i M . n i . d a
+100005	또 이동국등 노장들이 기대치만큼 못하면 힘들어질수 있다%.
+	tt o / i . d o NG . g u K . d eu NG / n o . j a NG . d eu . r i / g i . d ae . ch i . m a N . k eu M / m o . t a . m yeo N / h i M . tt eu . r eo . j i R . ss u / i T . tt a
+100006	그는 이러한 일을 결코 경험해 본적이 없다%.
+	g eu . n eu N / i . l eo . h a N / i . r eu R / g yeo R . k o / g yeo NG . h eo . m ae / b o N . jj eo . g i / eo P . tt a
+100007	올해 포스트 시즌의 가장 뜨거운 포지션은 유격수다%.
+	o . r ae / p o . s eu . t eu / s i . j eu . n e / g a . j a NG / tt eu . g eo . u N / p o . j i . s yeo . n eu N / yu . g yeo K . ss u . d a
+100008	그는 문을 부수고 들어와서 사람들을 움직이지 못하게 했다%.
+	g eu . n eu N / m u . n eu R / b u . s u . g o / d eu . r eo . wa . s eo / s a . l a M . tt eu . r eu R / u M . jj i . g i . j i / m o . t a . g e / h ae T . tt a
+100009	분데스리가에도 이런 가성비 최강팀이 있잖아요%?
+	b u N . tt e . s eu . l i . g a . e . d o / i . l eo N / g a . s eo NG . b i / ch oe . g a NG . t i . m i / i T . jj a . n a . yo
+100010	앞에서 얘기했던 그런 부모가 또 나오지 않을까 걱정이 된다%.
+	a . p e . s eo / yae . g i . h ae T . tt eo N / g eu . l eo N / b u . m o . g a / tt o / n a . o . j i / a . n eu R . kk a / g eo K . jj eo NG . i / d oe N . tt a
